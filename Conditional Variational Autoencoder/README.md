@@ -15,6 +15,7 @@ Loss curve
 ![](https://i.imgur.com/CMfPKRA.png)
 
 Original MNIST image:
+
 ![](https://i.imgur.com/IsywPmC.png)
 
 Reconstructed image:
