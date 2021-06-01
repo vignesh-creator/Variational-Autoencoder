@@ -2,6 +2,8 @@ This folder contains implementation of Variational Autoencoder [paper](https://a
 
 This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) to obtain good result. 
 
+There are two ipynb files which can be used as an alternative if you have any problem in running the .py files
+
 After training: 
 
 Loss curve obtained:
