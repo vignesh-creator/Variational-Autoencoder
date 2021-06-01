@@ -6,7 +6,6 @@ There are two .ipynb files which can be used as an alternative if you have any p
 
 After training: 
 
-Loss curve obtained:
 ![](https://i.imgur.com/RGoMAZR.png)
 
 Results
