@@ -1,6 +1,6 @@
 # Variational-Autoencoder
 This repository contains implementation of Variational Autoencoder 
-and Conditional Variational Autoencoder...
+and Conditional Variational Autoencoder using Residual and Inverse residual networks
 
 The interesting thing about variational autoencoder which differs it from normal autoencoders is, Variational autoencoder provides a probabilistic manner for describing an observation in latent space. 
 
