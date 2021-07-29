@@ -1,8 +1,8 @@
 This folder contains implementation of Variational Autoencoder [paper](https://arxiv.org/pdf/1312.6114.pdf)
 
-This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) to obtain good result. 
+This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) & inverse residual Networks to obtain good results. 
 
-There are two .ipynb files which can be used as an alternative if you have any problem in running .py files
+There are two .ipynb files, which can be used as an alternative if you have any problem in running .py files
 
 After training: 
 
