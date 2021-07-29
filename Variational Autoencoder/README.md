@@ -2,7 +2,9 @@ This folder contains implementation of [Variational Autoencoder](https://arxiv.o
 
 This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) & Inverse Residual Networks to obtain good results. 
 
-There are two .ipynb files, which can be used as an alternative if you have any problem in running .py files
+There are two .ipynb files(Jupyter Notebooks), which can be used as an alternative if you have any problem in running .py files
+
+>> python train.py
 
 After training: 
 
