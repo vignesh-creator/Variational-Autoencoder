@@ -1,4 +1,4 @@
-This folder contains implementation of Variational Autoencoder [paper](https://arxiv.org/pdf/1312.6114.pdf)
+This folder contains implementation of [Variational Autoencoder](https://arxiv.org/pdf/1312.6114.pdf)
 
 This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) & inverse residual Networks to obtain good results. 
 
