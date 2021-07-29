@@ -4,7 +4,9 @@ This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) & 
 
 There are two .ipynb files(Jupyter Notebooks), which can be used as an alternative if you have any problem in running .py files
 
->> python train.py
+Type the below command in your terminal
+
+> python train.py
 
 After training: 
 
