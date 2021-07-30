@@ -6,6 +6,8 @@ The interesting thing about variational autoencoder which differs it from normal
 
 Thus, rather than building an encoder which outputs a single value to describe each latent state attribute, we'll formulate our encoder to describe a probability distribution for each latent attribute.
 
+This help us to generate new data using the trained VAE Decoder
+
 The further explanation about VAE and CVAE is given in the respective project folders along with links of original paper.
 
 Happy learning :)
