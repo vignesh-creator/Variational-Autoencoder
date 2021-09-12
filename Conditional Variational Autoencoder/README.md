@@ -3,9 +3,9 @@ This folder contains implementation of [Conditional Variational Autoencoder](htt
 This code also uses [Residual Networks](https://arxiv.org/pdf/1512.03385.pdf) & inverse residual Networks to obtain good results. 
 
 To train the Network,type the below command in your terminal or just run the Train file
-
->python train.py
-
+```
+python train.py
+```
 
 After training for 5 epochs: 
 
