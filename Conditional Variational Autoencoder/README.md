@@ -20,3 +20,4 @@ The Second row of images are reconstructed images.
 
 ![](https://i.imgur.com/tsHwM8H.png)
 
+>P.S: 5 epochs are enough to get good results( as it's MNIST). And it hardly takes 5-10 minutes for completing the 5 epochs
