@@ -31,4 +31,4 @@ Mathematical understanding of Variational Autoencoder is simplified [here](https
 
 Lecture by Prof. Ali Ghodsi [Video Lecture](https://www.youtube.com/watch?v=uaaqyVS9-rM&t=1235s)
 
-P.S: 5 epochs are enough to get good results( as it's MNIST). And it hardly takes 5-10 minutes for completing the 5 epochs
+> P.S: 5 epochs are enough to get good results( as it's MNIST). And it hardly takes 5-10 minutes for completing the 5 epochs
